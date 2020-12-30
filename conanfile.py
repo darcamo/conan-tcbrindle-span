@@ -5,7 +5,7 @@ from conans import ConanFile, tools
 
 class TcbrindlespanConan(ConanFile):
     name = "tcbrindle-span"
-    version = "2020-01-07-f17749c88cca9a3455cfdc9d907cc84850fd2423"
+    version = "2020-06-03-5d8d366eca918d0ed3d2d196cbeae6abfd874736"
     license = "Boost Software License 1.0"
     author = "Darlan Cavalcante Moreira (darcamo@gmail.com)"
     url = "https://github.com/darcamo/conan-tcbrindle-span"
